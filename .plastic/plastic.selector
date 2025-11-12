@@ -1,0 +1,3 @@
+repository "ServiciosTallerCorte3/ServiciosTallerCorte3@4673780164882@cloud"
+  path "/"
+    smartbranch "/main"

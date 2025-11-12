@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548785804063",
+    "project_id": "unityconexion-bbe35",
+    "storage_bucket": "unityconexion-bbe35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548785804063:android:773343bcebb9adae70d62a",
+        "android_client_info": {
+          "package_name": "com.GamesPP.JueguitoPrime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN9Tx9jiXXDFu9PqHopV0GxpQyNQjDTHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

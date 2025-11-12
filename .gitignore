@@ -1,0 +1,49 @@
+# ====================================================
+# Unity generated files and folders (CRÍTICAS)
+# ====================================================
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[L]ogs/
+/[U]serSettings/
+
+# Archivos de caché
+/Assets/AssetStoreTools/
+/Assets/ShaderCache/
+/Assets/StreamingAssets.meta
+
+# ====================================================
+# Archivos de IDEs
+# ====================================================
+
+# VS/Rider/IDE files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# ====================================================
+# Archivos de SO
+# ====================================================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Firebase SDK binaries
+Assets/Firebase/Plugins/**/*.so
+Assets/Firebase/Plugins/**/*.bundle
+Assets/Firebase/Plugins/**/*.dll
